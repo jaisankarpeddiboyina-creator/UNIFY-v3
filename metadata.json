@@ -1,0 +1,6 @@
+{
+  "name": "UNIFY",
+  "description": "A universal no-auth data aggregator connecting 1,294+ APIs across 35 categories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

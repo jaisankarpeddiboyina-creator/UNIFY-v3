@@ -1,0 +1,12 @@
+{
+  "name": "UNIFY - Find Anything. Instantly.",
+  "short_name": "UNIFY",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#2D5A8C",
+  "icons": [
+    { "src": "https://lucide.dev/api/icon/search", "sizes": "192x192", "type": "image/png" },
+    { "src": "https://lucide.dev/api/icon/search", "sizes": "512x512", "type": "image/png" }
+  ]
+}
